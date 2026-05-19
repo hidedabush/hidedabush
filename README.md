@@ -37,12 +37,4 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/nguyen-hang-cs/  
 - 📸 Instagram: https://www.instagram.com/nguyen._.hangg  
 
----
 
-## ⚡ Current Focus
-
-> Learning how to push performance boundaries with GPU computing while building real-world projects in data science and systems programming.
-
----
-
-⭐ Always open to collaboration, learning, and interesting technical conversations.
