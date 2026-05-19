@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Hang</h1>
-<h3 align="center">Rising Junior in CS with focus in Data Science</h3>
+<h3 align="center">Rising Junior in CS</h3>
 
 - 🔭 I’m currently working on **ASTRO-FIT-MINI**
 
