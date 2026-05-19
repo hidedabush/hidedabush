@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently working on **ASTRO-FIT-MINI**
+- 🌱 Currently working on **ASTRO-FIT-MINI** and **Neural-network-Quantization-Study**
 - ⚡ Exploring **CUDA** and GPU programming
 - 📊 Interested in **high-performance computing & data science**
 - 🛠️ Enjoy building efficient, low-level, and impactful systems
