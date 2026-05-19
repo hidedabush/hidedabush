@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hang Nguyen
+# 👋 Hi, I'm Nguyen Hang
 
 🎓 Rising Junior in Computer Science @ University of Houston  
 💡 Passionate about GPU computing, systems, and data science  
